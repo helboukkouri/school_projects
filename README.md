@@ -1,3 +1,3 @@
 # School Projects
 
-Various projects while at ENSAE ParisTech.
+Various projects during my Master's in Machine Learning at ENSAE ParisTech.
