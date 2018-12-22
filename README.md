@@ -1,1 +1,3 @@
-# school_projects
+# School Projects
+
+Various projects while at ENSAE ParisTech.
