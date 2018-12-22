@@ -1,4 +1,4 @@
-# US_census
+# Classification project: US Census
 
 Census-Income (KDD) Data Set from : https://archive.ics.uci.edu/ml/datasets/Census-Income+(KDD)
 
